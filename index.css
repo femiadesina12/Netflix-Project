@@ -3,25 +3,6 @@
     background-color: black;
 }
 
-/* .head1{
-    border: 2px solid white;
-    height: 60px;
-    width: 40%;
-    position: absolute;
-} */
-
-.label1{
-    height: 600px;
-    width: 100%;
-    border: 3px solid grey;
-}
-
-.label2{
-    width: 100%;
-    height: 300px;
-    border: 3px solid white;
-}
-
 .header{
     width: 80%;
     height: 50px;
@@ -30,6 +11,40 @@
     margin: 4px 10% 0px;
     
 }
+
+header{
+    margin-left: 10%;
+    width: 80%;
+    height: 60px;
+    
+}
+
+.head1{
+    float: left;
+    margin-left: 5%;
+    margin-top: 5px;
+}
+
+.head2{
+    float: right;
+    margin-right: 5%;
+    margin-top: 5px;
+}
+
+.label1{
+    height: 600px;
+    width: 100%;
+    border: 3px solid grey;
+    background-image: url(images/bkg.jpg);
+    background-image: linear-gradient(10%);
+}
+
+.label2{
+    width: 100%;
+    height: 300px;
+    border: 3px solid white;
+}
+
 
 
 
