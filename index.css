@@ -28,7 +28,54 @@ header{
 .head2{
     float: right;
     margin-right: 5%;
+    margin-top: 20px;
+}
+
+.unlimited{
+    color: white;
+}
+
+.pa1{
+    font-size: 36px !important;
+    text-align: center;
+    margin-top: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 900;
+    margin-bottom: 2px;
+}
+
+.pa2{
+    font-size: 18px;
+    text-align: center;
     margin-top: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 100;
+}
+
+.pa3{
+    font-size: 15px;
+    text-align: center;
+    margin-top: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 80;
+}
+
+.divtxt{
+    height: 60px;
+    width: 50%;
+    margin-left: 24%;
+    /* border: 2px solid white; */
+}
+
+.txt1{
+    background: transparent;
+    width: 350px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.btn{
+    size: 5;
 }
 
 .label1{
